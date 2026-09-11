@@ -1,0 +1,2 @@
+fir_entity,subscriber_id,mapping_status,mapping_source,fir_entity_type,fir_evidence_count,fir_relationship_count,fir_risk_score,fir_risk_level,traceable_evidence_count,cdr_total_calls,cdr_unique_contacts,cdr_outgoing_calls,cdr_incoming_calls,cdr_activity_score
+Ganga Dyal,SUB00929,SYNTHETIC_DEMO,Demo dataset mapping,ACCUSED,4,19,73.88,HIGH,4,28.0,28.0,13.0,15.0,28.0

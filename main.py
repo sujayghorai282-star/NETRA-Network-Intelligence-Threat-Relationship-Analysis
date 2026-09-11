@@ -1,0 +1,5 @@
+print("========================================")
+print("AI-POWERED CRIMINAL NETWORK ANALYSIS")
+print("========================================")
+print()
+print("Project environment is working!")

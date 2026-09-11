@@ -1,0 +1,11 @@
+fir_id,date,location,description
+FIR001,2026-01-10,Durgapur,"Rahul Sharma met Amit Das near Durgapur Railway Station. Rahul contacted Suresh Roy using phone number 9876543210."
+FIR002,2026-01-12,Kolkata,"Amit Das transferred Rs 250000 to Suresh Roy through bank account ACC1001. The transaction occurred after a meeting near Park Street."
+FIR003,2026-01-15,Durgapur,"Suresh Roy travelled to Kolkata using vehicle WB12AB1234. He was seen meeting Arjun Singh."
+FIR004,2026-01-18,Kolkata,"Arjun Singh contacted Rahul Sharma multiple times using phone number 9876543210."
+FIR005,2026-01-20,Asansol,"Amit Das and Arjun Singh were observed near Asansol Railway Station before a suspicious financial transaction."
+FIR006,2026-01-22,Durgapur,"Rahul Sharma transferred Rs 500000 to an unknown account ACC2002. Suresh Roy was present at the location."
+FIR007,2026-01-25,Kolkata,"Multiple calls were recorded between Amit Das and Suresh Roy before they met near Howrah Station."
+FIR008,2026-01-28,Asansol,"Arjun Singh used vehicle WB12AB1234 and travelled from Durgapur to Asansol."
+FIR009,2026-02-01,Durgapur,"Rahul Sharma met an unidentified individual near City Centre. Phone number 9123456780 was active at the location."
+FIR010,2026-02-05,Kolkata,"Suresh Roy transferred Rs 300000 to account ACC1001 shortly after contacting Arjun Singh."

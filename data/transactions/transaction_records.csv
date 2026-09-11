@@ -1,0 +1,13 @@
+transaction_id,sender,sender_account,receiver,receiver_account,amount,date,location
+TXN001,Rahul Sharma,ACC1001,Amit Das,ACC2001,50000,2026-01-10,Durgapur
+TXN002,Amit Das,ACC2001,Suresh Roy,ACC3001,250000,2026-01-12,Kolkata
+TXN003,Suresh Roy,ACC3001,Arjun Singh,ACC4001,240000,2026-01-13,Kolkata
+TXN004,Arjun Singh,ACC4001,Rahul Sharma,ACC1001,230000,2026-01-14,Durgapur
+TXN005,Rahul Sharma,ACC1001,Suresh Roy,ACC3001,500000,2026-01-22,Durgapur
+TXN006,Amit Das,ACC2001,Unknown Entity,ACC9999,750000,2026-01-23,Kolkata
+TXN007,Suresh Roy,ACC3001,Amit Das,ACC2001,300000,2026-01-25,Asansol
+TXN008,Arjun Singh,ACC4001,Unknown Entity,ACC9999,450000,2026-01-27,Durgapur
+TXN009,Unknown Entity,ACC9999,Rahul Sharma,ACC1001,440000,2026-01-28,Kolkata
+TXN010,Rahul Sharma,ACC1001,Arjun Singh,ACC4001,1000000,2026-02-02,Durgapur
+TXN011,Amit Das,ACC2001,Rahul Sharma,ACC1001,80000,2026-02-04,Kolkata
+TXN012,Suresh Roy,ACC3001,Unknown Entity,ACC9999,600000,2026-02-05,Asansols
